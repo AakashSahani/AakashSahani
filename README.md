@@ -41,6 +41,4 @@ Visual Studio Code
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashSahani&theme=tokyonight_duo&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashSahani&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aakashsahani&theme=aura)](https://git.io/streak-stats)
