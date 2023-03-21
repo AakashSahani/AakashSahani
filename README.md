@@ -41,4 +41,4 @@ Visual Studio Code
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aakashsahani&theme=aura)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AakashSahani&theme=vue-dark&border_radius=10)](https://git.io/streak-stats)
